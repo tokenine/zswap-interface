@@ -1124,10 +1124,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@bscswap/sdk@3.0.10":
-  version "3.0.10"
-  resolved "https://registry.yarnpkg.com/@bscswap/sdk/-/sdk-3.0.10.tgz#a7227a527d0448fdc804d2295a274a506e1d2219"
-  integrity sha512-DKQjV5lkFIW5VJ/yKjkaqrpPJm9GnxpwxMFpvmdlgC/8Vi6E4c8s1+TPbhA6m6C9j666m5zikN+tz/Q5ECfASw==
+"@bscswap/sdk@3.0.11":
+  version "3.0.11"
+  resolved "https://registry.yarnpkg.com/@bscswap/sdk/-/sdk-3.0.11.tgz#0b5649be2b26ecd05bf34d9c315ca6fc7393cff5"
+  integrity sha512-xEuSGTp02HxLO47OZCs3xakSFIFxRomqYbvyLg33bxp8nnwpRQrLz0PJCNlFvA+y76OtgWBz8wwAW6yGykw5ag==
   dependencies:
     "@uniswap/v2-core" "^1.0.0"
     big.js "^5.2.2"
